@@ -1,4 +1,4 @@
-# RentEase — Revised 200-Customer Version
+# RentEase
 
 This is a web-only academic/testing prototype using HTML5, Tailwind CSS CDN, Vanilla JavaScript, and Supabase.
 
